@@ -7,7 +7,7 @@ Aqui você pode ver mais um pouco sobre mim e meu trabalho!
 <img src="https://icongr.am/devicon/html5-original.svg?size=30&color=currentColor"/> <img src="https://icongr.am/devicon/css3-original.svg?size=30&color=currentColor"/> <img src="https://icongr.am/devicon/javascript-original.svg?size=30&color=currentColor"/> <img src="https://icongr.am/devicon/nodejs-original.svg?size=30&color=currentColor"/>
           
 ### Estou aprendendo
-<img src="https://icongr.am/devicon/python-original.svg?size=30&color=currentColor"/> <img src="https://icongr.am/devicon/android-original.svg?size=30&color=currentColor"/> <img style="height:30px; whidth:30px" src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png"/>
+<img src="https://icongr.am/devicon/python-original.svg?size=30&color=currentColor"/> <img src="https://icongr.am/devicon/android-original.svg?size=30&color=currentColor"/> <img src="https://icongr.am/simple/figma.svg?size=30&color=currentColor&colored=false"/>
 
 ### Contatos:
 
