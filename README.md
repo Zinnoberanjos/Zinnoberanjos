@@ -7,7 +7,7 @@ Aqui você pode ver mais um pouco sobre mim e meu trabalho!
 <img src="https://icongr.am/devicon/html5-original.svg?size=30&color=currentColor"/> <img src="https://icongr.am/devicon/css3-original.svg?size=30&color=currentColor"/> <img src="https://icongr.am/devicon/javascript-original.svg?size=30&color=currentColor"/> <img src="https://icongr.am/devicon/nodejs-original.svg?size=30&color=currentColor"/>
           
 ### Estou aprendendo
-<img src="https://icongr.am/devicon/python-original.svg?size=30&color=currentColor"/> <img src="https://icongr.am/devicon/android-original.svg?size=30&color=currentColor"/> <img src=""/>
+<img src="https://icongr.am/devicon/python-original.svg?size=30&color=currentColor"/> <img src="https://icongr.am/devicon/android-original.svg?size=30&color=currentColor"/>
 
 ### Contatos:
 
