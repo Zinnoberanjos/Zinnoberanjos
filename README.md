@@ -1,13 +1,8 @@
 ### Ferramentas e Tecnologias
-<img src="https://icongr.am/devicon/html5-original.svg?size=30&color=currentColor"/>
-<img src="https://icongr.am/devicon/css3-original.svg?size=30&color=currentColor"/>
-<img src="https://icongr.am/devicon/javascript-original.svg?size=30&color=currentColor"/>
-<img src="https://icongr.am/devicon/nodejs-original.svg?size=30&color=currentColor"/>
+<img src="https://icongr.am/devicon/html5-original.svg?size=30&color=currentColor"/> <img src="https://icongr.am/devicon/css3-original.svg?size=30&color=currentColor"/> <img src="https://icongr.am/devicon/javascript-original.svg?size=30&color=currentColor"/> <img src="https://icongr.am/devicon/nodejs-original.svg?size=30&color=currentColor"/>
           
 ### Estou aprendendo
-<img src="https://icongr.am/devicon/python-original.svg?size=30&color=currentColor"/>
-<img src="https://icongr.am/devicon/android-original.svg?size=30&color=currentColor"/>
-<img style="height:30px; whidth:30px;" src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png"/>
+<img src="https://icongr.am/devicon/python-original.svg?size=30&color=currentColor"/> <img src="https://icongr.am/devicon/android-original.svg?size=30&color=currentColor"/> <img style="height:30px; whidth:30px;" src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png"/>
 
 ### Contatos:
 
@@ -17,7 +12,6 @@
 <a href="https://www.twitch.tv/zinnoberanjos" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "mailto:zinnoberanjos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
 <div>
 <a href="https://github.com/zinnoberanjos">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinnoberanjos&layout=compact&langs_count=7&theme=dracula"/>
